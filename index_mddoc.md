@@ -45,7 +45,7 @@ The **AWS Cloud Customer Success Team – Solution Architecture** is dedicated t
 
 ## Contact Us
 
-📧 **Email**: aws-solutions@yourcompany.com  
+📧 **Email**: aws-solutions@helixtech-llc.com 
 🌐 **Internal Portal**: [Customer Success Hub](https://your-org.github.io/aws-customer-success)
 
 ---
